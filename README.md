@@ -1,6 +1,6 @@
 # Beekeeper Studio
 
-* Firebase Fork *
+_ firebase fork _
 
 Beekeeper Studio is a cross-platform SQL editor and database manager available for Linux, Mac, and Windows.
 
